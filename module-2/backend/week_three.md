@@ -9,8 +9,10 @@ Note: When you're done, submit a PR with a reflection in the comments about how 
 
 ### Questions
 
-1. What are the 3 main features in an ERD?
-2. Create an ERD for the following database: Restaurants, Customers, Items, Ingredients, Beverages, Orders, Vendors.
+1. What are the 3 main features in an ERD?  
+Entities, their content and their relationships.  
+2. Create an ERD for the following database: Restaurants, Customers, Items, Ingredients, Beverages, Orders, Vendors.  
+
 3. What is the entry at the command line to create a new rails app?
 4. What do Models generally inherit from in rails?
 5. What do Controllers generally inherit from in a rails project?
