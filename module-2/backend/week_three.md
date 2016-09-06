@@ -14,7 +14,7 @@ Entities, their content and their relationships.
 2. Create an ERD for the following database: Restaurants, Customers, Items, Ingredients, Beverages, Orders, Vendors.  
 
 3. What is the entry at the command line to create a new rails app?  
-rails new <appname>  
+rails new \<appname\>  
 4. What do Models generally inherit from in rails?  
 ActiveRecord::Base  
 5. What do Controllers generally inherit from in a rails project?  
